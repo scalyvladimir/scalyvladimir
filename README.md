@@ -20,7 +20,7 @@ inherrited from [friend's repository](https://github.com/makmary)
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=scalyvladimir&show_icons=true&cache_seconds=1800" />
+  <img align="left" width="350" height="600" src="https://github-readme-stats.vercel.app/api?username=scalyvladimir&show_icons=true&cache_seconds=1800" />
 </a>
 
 <br clear="all" />
