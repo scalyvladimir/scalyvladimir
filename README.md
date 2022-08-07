@@ -7,7 +7,7 @@ inherrited from [friend's repository](https://github.com/makmary)
 - 🌻  Advanced Computational Science student from Skoltech
 - 🌱 I’m currently looking for DL intership vacancies
 
-### Links:
+### Clickable links:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/scalyvladimir) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/scalyvladimir)
