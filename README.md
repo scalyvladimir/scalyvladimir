@@ -16,11 +16,11 @@ inherrited from [friend's repository](https://github.com/makmary)
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=scalyvladimir&show_icons=true&cache_seconds=1800" />
+  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scalyvladimir&show_icons=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scalyvladimir&show_icons=true" />
+  <img align="left" width="350" src="https://github-readme-stats.vercel.app/api?username=scalyvladimir&show_icons=true&cache_seconds=1800" />
 </a>
 
 <br clear="all" />
