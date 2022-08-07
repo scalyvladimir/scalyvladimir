@@ -1,5 +1,3 @@
-# about_me
-
 ## Hi there 👋, my name is Vladimir Chernyy
 
 ### About me:
