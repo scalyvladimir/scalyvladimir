@@ -15,6 +15,8 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 [<img src='https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-cv-icon.png' alt='github' height='40'>](https://drive.google.com/file/d/1p2d7cmVZjEYXZmLmvjBpDknIsuofhwn1/view?usp=sharing) 
 
+### Github stats:
+
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
