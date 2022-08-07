@@ -34,4 +34,5 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 ### Those people has a distinct taste:
 ![Profile View Counter](https://komarev.com/ghpvc/?username=scalyvladimir)
+
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/scalyvladimir)
