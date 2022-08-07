@@ -31,3 +31,6 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 ### Joke of the day section:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### Those people has a distinct taste:
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
