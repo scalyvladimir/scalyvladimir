@@ -11,7 +11,7 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/scalyvladimir)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/scalyvladimir) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://drive.google.com/file/d/1p2d7cmVZjEYXZmLmvjBpDknIsuofhwn1/view?usp=sharing) 
 
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](mailto:chernyj.vv@phystech.edu)
 
