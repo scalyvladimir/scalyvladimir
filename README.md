@@ -1,5 +1,7 @@
 ## 👋 Hi there, my name is Vladimir Chernyy
 
+inherrited from [friend's repository](https://github.com/makmary)
+
 ### About me:
 
 - 🌻  Advanced Computational Science student from Skoltech
