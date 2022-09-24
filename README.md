@@ -13,7 +13,7 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](mailto:chernyj.vv@phystech.edu)
 
-[![CV Badge](https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-cv-icon.png')] (https://drive.google.com/file/d/11-Ob0mYNU37KN0hXgw6PsIJpaymzAsnv/view?usp=sharing)
+[<img src='https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-cv-icon.png' height='40'>](https://drive.google.com/file/d/11-Ob0mYNU37KN0hXgw6PsIJpaymzAsnv/view?usp=sharing)
 
 ### Github stats:
 
