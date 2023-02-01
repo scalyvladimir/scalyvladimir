@@ -5,7 +5,7 @@ inherrited from [friend's repository](https://github.com/makmary)
 ### About me:
 
 - 🌻  Advanced Computational Science student from Skoltech
-- 🌱 I’m currently looking for DL intership vacancies
+- 🖥👨🏻‍💻 I’m currently working on HDR(High Dynamic Range) feature enhancement using Deep Learning approach at Huawei, Moscow
 
 ### Clickable links:
 
