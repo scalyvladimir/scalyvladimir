@@ -4,8 +4,9 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 ### About me:
 
-- 🌻  Advanced Computational Science student from Skoltech
-- 🖥👨🏻‍💻 I’m currently working on HDR(High Dynamic Range) feature enhancement using Deep Learning approach at Huawei, Moscow
+- 🌻  Skoltech CS and Maths Master Graduate
+- 🖥👨🏻‍💻 Computer Vision Engineer at ![SDI Matrix]([https://readme-jokes.vercel.app/api](https://sdimatrix.com/en/)), we are working on both software and hardware solutions for for dentistry, applying classical and Deep Learning-based CV solutions. 
+- 🐼 ex. CV Engineer at Huawei, Moscow(HDR reconstruction).
 
 ### Clickable links:
 
