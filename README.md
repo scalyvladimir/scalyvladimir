@@ -1,4 +1,4 @@
-## 👋 Hi there, my name is Vladimir Chernyy
+## 👋 Hi there, my name is Vladimir Chernyi
 
 inherrited from [friend's repository](https://github.com/makmary)
 
