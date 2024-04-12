@@ -4,7 +4,7 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 ### About me:
 
-- 🌻  Skoltech CS and Maths Master Graduate
+- 🌻  MIPT 21' & Skoltech 23' alumnus 
 - 🖥👨🏻‍💻 Computer Vision Engineer
 - 🐼 ex. CV Engineer at Huawei, Moscow(HDR reconstruction).
 
