@@ -4,8 +4,8 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 ### About me:
 
-- 🌻  MIPT 21' & Skoltech 23' alumnus 
 - 🖥👨🏻‍💻 Computer Vision Engineer @ [VK](https://vk.com), ex. Huawei/Samsung
+- 🌻  MIPT 21' & Skoltech 23' alumnus 
 
 ### Clickable links:
 
