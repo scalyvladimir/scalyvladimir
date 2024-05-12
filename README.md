@@ -5,8 +5,7 @@ inherrited from [friend's repository](https://github.com/makmary)
 ### About me:
 
 - 🌻  MIPT 21' & Skoltech 23' alumnus 
-- 🖥👨🏻‍💻 Computer Vision Engineer
-- 🐼 ex. CV Engineer at Huawei, Moscow(HDR reconstruction).
+- 🖥👨🏻‍💻 Computer Vision Engineer @ [VK](https://vk.com), ex. Huawei/Samsung
 
 ### Clickable links:
 
