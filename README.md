@@ -4,8 +4,8 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 ### About me:
 
-- 🖥👨🏻‍💻 Computer Vision Engineer @ [VK](https://vk.com), ex. Huawei/Samsung
-- 📚 TA @ [Central University](https://centraluniversity.ru)
+- 🖥👨🏻‍💻 CV Research Engineer @ [Kandinsky](https://www.sberbank.com/promo/kandinsky/), ex. VK/Huawei/Samsung
+- 📚 co-author CV course at @ [Central University](https://centraluniversity.ru)
 - 🌻  MIPT 21' & Skoltech 23' alumnus 
 
 ### Clickable links:
