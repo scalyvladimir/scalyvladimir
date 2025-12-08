@@ -16,9 +16,9 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 [<img src='https://images.vexels.com/media/users/3/140030/isolated/preview/521136d25b37386f49728b93d2e4e6fa-cv-icon.png' height='40'>](https://www.overleaf.com/read/xwrbxpzszvyv)
 
-### Github stats:
 
 <!-- <br>
+### Github stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=scalyvladimir&show_icons=true&cache_seconds=1800" />
