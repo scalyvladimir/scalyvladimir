@@ -18,7 +18,7 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 ### Github stats:
 
-<br>
+<!-- <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=scalyvladimir&show_icons=true&cache_seconds=1800" />
@@ -28,7 +28,7 @@ inherrited from [friend's repository](https://github.com/makmary)
   <img align="left" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scalyvladimir&show_icons=true&layout=compact" />
 </a>
 
-<br clear="all" />
+<br clear="all" /> -->
 
 ### Joke of the day section:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
