@@ -4,7 +4,7 @@ inherrited from [friend's repository](https://github.com/makmary)
 
 ### About me:
 
-- 🖥👨🏻‍💻 CV Research Engineer @ [Kandinsky](https://www.sberbank.com/promo/kandinsky/), ex. VK/Huawei/Samsung
+- 🖥👨🏻‍💻 CV Research Engineer @ [Kandinsky Lab]([https://www.sberbank.com/promo/kandinsky/](https://kandinskylab.ai)), ex. VK/Huawei/Samsung
 - 📚 co-authored CV course at @ [Central University](https://cu.ru/courses/cv)
 - 🌻  MIPT 21' & Skoltech 23' alumnus 
 
